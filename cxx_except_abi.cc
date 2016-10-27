@@ -1,5 +1,6 @@
 #include "cxx_except_abi.h"
 
+#include <cstring>
 #include <iostream>
 
 #include <stdlib.h>
